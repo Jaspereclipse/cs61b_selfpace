@@ -1,3 +1,9 @@
+/** 
+  *	Simulation and animation of planets' movement 
+  * Author: Juanyan Li
+*/
+
+
 import static java.lang.Math.sqrt;
 
 public class NBody {
